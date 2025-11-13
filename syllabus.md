@@ -427,7 +427,7 @@ This part of the Course Outline and Official Syllabus is not longer appended to 
     🗓️ Monday, January 12, 2026, from 12:00–2:00 PM (EST)
         Requires permission from both your academic advisor and the course instructor.
 
-2. Quiz #2
+2. Quiz #2 for both 2141 and 2191
 
     Quiz Window:
     🕛 Opens: Monday, December 1, 2025, at 12:00 PM (EST)
@@ -471,5 +471,6 @@ Professor Erika Simpson
 
 1 
  
+
 
 
