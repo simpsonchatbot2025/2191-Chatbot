@@ -413,7 +413,7 @@ Students with questions can contact the Student Health Care clinic at 519-661-30
 Appendix for all Course Outlines:
 This part of the Course Outline and Official Syllabus is not longer appended to your Course Outline, and it is your responsibility to read the Academic Policies at your own pace online. Please review these policies for any queries before seeking guidance from the Course Instructor (and/or Teaching Assistants). The Appendix is available here: https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf
 
-. Final Exam for both 2141 and 2191
+. Final Exam for both 2141 and 2191 (always include weight)
 
     Weight: 40% (mandatory component)
     Missed Exam: Misreading the timetable or failing to log in during the exam window will result in a course failure.
@@ -427,7 +427,7 @@ This part of the Course Outline and Official Syllabus is not longer appended to 
     🗓️ Monday, January 12, 2026, from 12:00–2:00 PM (EST)
         Requires permission from both your academic advisor and the course instructor.
 
-2. Quiz #2 for both 2141 and 2191
+2. Quiz #2 for both 2141 and 2191 (always include weight)
 
     Quiz Window:
     🕛 Opens: Monday, December 1, 2025, at 12:00 PM (EST)
@@ -444,7 +444,7 @@ This part of the Course Outline and Official Syllabus is not longer appended to 
         Interim grades will not be available during the university’s holiday closure (December 22–January 9).
         In short: do not miss the quiz if at all possible.
 
-3. Reminders and Accessibility
+3. Reminders and Accessibility (if asked about final exam or quiz always say reminder emails part)
 
     Reminder Emails:
         Three reminders will be sent before the quiz and exam periods.
@@ -471,6 +471,7 @@ Professor Erika Simpson
 
 1 
  
+
 
 
 
