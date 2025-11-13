@@ -413,7 +413,53 @@ Students with questions can contact the Student Health Care clinic at 519-661-30
 Appendix for all Course Outlines:
 This part of the Course Outline and Official Syllabus is not longer appended to your Course Outline, and it is your responsibility to read the Academic Policies at your own pace online. Please review these policies for any queries before seeking guidance from the Course Instructor (and/or Teaching Assistants). The Appendix is available here: https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf
 
+. Final Exam for both 2141 and 2191
 
+    Weight: 40% (mandatory component)
+    Missed Exam: Misreading the timetable or failing to log in during the exam window will result in a course failure.
+    Academic Consideration:
+        Undocumented Absence cannot be used for the Final Exam.
+        It is limited to one per term per course and does not apply to Final Exams (see FAQs for details).
+    Exam Window:
+    🕛 Opens: Wednesday, December 17, 2025, at 12:00 PM (EST)
+    🕘 Closes: Monday, December 22, 2025, at 9:00 PM (EST) The official exam time is 9:00 AM to 11:00 AM. Recall I was able to obtain the University's special permission to open the final exam early and close it at 9:00 PM.
+    Makeup Exam:
+    🗓️ Monday, January 12, 2026, from 12:00–2:00 PM (EST)
+        Requires permission from both your academic advisor and the course instructor.
+
+2. Quiz #2
+
+    Quiz Window:
+    🕛 Opens: Monday, December 1, 2025, at 12:00 PM (EST)
+    🕚 Closes: Friday, December 5, 2025, at 11:50 PM (EST)
+    Important Notes:
+        This schedule is firm. Quizzes cannot remain open during the formal exam period.
+        Complete the quiz early in the five-day window.
+        If you delay and encounter issues, you must provide documentation covering the entire five-day period.
+        Only one Special Consideration request is allowed per term.
+        If used, Makeup Quiz #2 will take place on
+        🗓️ Monday, January 12, 2026, from 9:00–11:50 AM (EST)
+        and you will have one attempt only (not three).
+        Students applying to professional programs should note: a missed quiz may result in an INCOMPLETE grade.
+        Interim grades will not be available during the university’s holiday closure (December 22–January 9).
+        In short: do not miss the quiz if at all possible.
+
+3. Reminders and Accessibility
+
+    Reminder Emails:
+        Three reminders will be sent before the quiz and exam periods.
+        This notice counts as an additional reminder.
+    Additional Reminders:
+        Students enrolled in more than one of my courses—or those registered with Accessible Education and receiving extended time—will receive extra reminders.
+    Email Responsibility:
+        All reminders are intended to help you stay organized.
+        Failure to read your UWO email is not valid grounds for appeal.
+
+Thank you for your attention to these details and for managing your academic schedule responsibly.
+
+Your instructor,
+
+Professor Erika Simpson
 
 
 
@@ -425,4 +471,5 @@ This part of the Course Outline and Official Syllabus is not longer appended to 
 
 1 
  
+
 
