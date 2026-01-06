@@ -1,7 +1,5 @@
-﻿URL for file https://westernu.brightspace.com/d2l/home/126061
-
 Course(s) Information
-Link for students to hear on AUDIO: 
+Link for students to watch and hear on Youtube 
 Course Information….1
 Prerequisites: None….3
 Instructor Information….4
@@ -12,12 +10,13 @@ Additional Statements….14
 Learning Objectives….16
 Support Services….17
 Additional regulations on course re-evaluation, absences, and evaluation of international students….20
+Summary of all this information on the Professor’s Youtube video (38 minutes long)…….21
 
 Course Name(s) and Number(s): 
 This is the information for my three courses that are structured similarly:
-* Department of Political Science POL SCI 2141B 650: Global Violence & Injustice 
-* Department of Political Science POL SCI 2191A 650: Special Topics in Poli Sci: Global Diplomacy and Peace
-* Department of Political Science POL SCI 2135A 650: Canada Abroad
+•	Department of Political Science POL SCI 2141B 650: Global Violence & Injustice 
+•	Department of Political Science POL SCI 2191A 650: Special Topics in Poli Sci: Global Diplomacy and Peace
+•	Department of Political Science POL SCI 2135A 650: Canada Abroad
 
 Date(s) and Time(s) Offered: 
 2141A Online Course, Distance Studies (fall term), September 2025-December 2025.  
@@ -52,8 +51,7 @@ Important requirement: The Mid-term and Final Exams must be written between 12:0
 
 Additional Synchronous Activities are not possible:
 Given the course's asynchronous nature and a considerable number of students, Simulations or Roleplaying Exercises are not included. Synchronous activities in these areas may be available through registration in my other courses (e.g. POL SCI 3203F: International Crises).
-
-
+ 
 Course Access, Language, and Prerequisites
 
 Prerequisites: None
@@ -67,8 +65,7 @@ All lectures, including the Professor’s audio and PowerPoint slides, are in En
 
 Lecture Backups
 Lectures are also available on VoiceThread and as MP4 videos. If a link is broken in OWL Brightspace, email the Professor immediately at simpson@uwo.ca.
-
-
+ 
 
 Instructor Information:
 Instructor Information:
@@ -121,8 +118,7 @@ International Relations as a Career Choice:
 To explore additional classes related to the general topic of International Relations (IR), refer to the faculty and personal websites accessible through the Department of Political Science: https://politicalscience.uwo.ca/
 
 Professor Simpson currently instructs four courses, namely POLSCI 2135A 650, 2191B 650, 2141B 650, and 3203F 650. Occasionally, Professor Simpson offers specialized Reading Courses POL SCI 4439F/G and oversees Undergraduate Theses. Additionally, she frequently mentors Graduate Students, including MA and PhD students, in the field of International Relations. 
-
-
+ 
 Course Syllabuses
 
 Course Description(s):
@@ -143,30 +139,28 @@ Lesson Plan(s) and Class Schedule(s):
 
 For the official up-to-date and current versions, see the Lesson Tool and the Syllabus on WESTERN’S ONLINE LEARNING MANAGEMENT SYSTEM (OWL) website(s). For help to access the OWL site, see https://owlhelp.uwo.ca/index.html
 
-
-
+ 
 Course Materials:
 
 Required Textbooks, Readings and Course Materials: 
 No purchased items are necessary for this course, including textbooks, course readers, manuals, laboratory or safety materials, and specific electronic devices.
-All the Required Readings, the instructor’s PowerPoint Slides and the “Engage More Readings” are accessible during the term on WESTERN’S ONLINE LEARNING MANAGEMENT SYSTEM, referred to as Owl Brightspace or OWL BS. Once the term is over, the materials are removed from the OWL site and are no longer accessible.
+All the Recommended Readings, the instructor’s PowerPoint Slides and the “Engage More Readings” are accessible during the term on WESTERN’S ONLINE LEARNING MANAGEMENT SYSTEM, referred to as Owl Brightspace or OWL BS. Once the term is over, the materials are removed from the OWL site and are no longer accessible.
 Copyright for all instructor's slides and lectures, including Guest Speaker lectures:
 Copyright belongs to the instructor and not the University of Western Ontario. Reusing lecture material for other purposes is prohibited, even with written permission from Professor Erika Simpson and/or Accessible Education.
 All required, supplementary, and optional PowerPoint Slides and lecture materials are the property of the instructor. Required Readings and “Engage More Readings” are sourced from online platforms such as Google Scholar, Scholarship@Western, and videos. They are collectively made available through Western’s library, and you can access them individually through the OWL BS portal.
 Supplementary materials:
 Supplementary materials, including lecture slides, handouts, videos, and career/essay writing advice, are regularly posted on OWL as Supplementary Lessons. These materials belong to the instructor and are protected by copyright; do not download, copy, or share without explicit written permission.
-
-
+ 
 Methods of Evaluation:
 Non-Cumulative Quizzes and Exams:
 The quizzes and exams are not cumulative, meaning the Final Exam won’t include material covered before the Mid-term. Assessment is based solely on information presented by the professor and guest speakers, not on colleagues, search engines like Google, other websites, or external sources. The focus is strictly on course content and not external opinions or materials.
 
 Exam Bank and Review Policy
-The exam bank for each online assessment contains over 1,000 questions, which are randomly assigned to students. Students may request a review of their incorrect answers only four weeks after the completion of the Makeup #2 Quiz, Makeup #2 Midterm, or Makeup #2 Final Exam.
+The exam bank for each online assessment contains over 1,500 questions, which are randomly assigned to students. Students may request a review of their incorrect answers only after the completion of all the Makeup #2 Quiz, Makeup #2 Midterm, or Makeup #2 Final Exams.
 To review answers, students must contact the Professor to schedule an in-person meeting in the Professor’s office at a mutually agreed-upon time. Only incorrect answers may be discussed; correct answers are not subject to review.
 Strict Academic Integrity Rules:
-* It is a scholastic offence to take screenshots or photographs during any exam or quiz.
-* It is a scholastic offence to take screenshots or photographs during the review meeting.
+•	It is a scholastic offence to take screenshots or photographs during any exam or quiz.
+•	It is a scholastic offence to take screenshots or photographs during the review meeting.
 Any breach of these rules will be treated as a serious academic offence and reported to the Dean’s office in accordance with University policy.
 
 Proctor track is not used: 
@@ -196,7 +190,7 @@ Final Exam:
 The Final Exam's location, date, and time are To Be Confirmed [TBC] by the University. Students with Official Exam Conflicts (consult your Counsellor for the Form) must write a Makeup Exam, typically scheduled 1 week later, but possibly up to four weeks later. To miss and write a Makeup Exam, students need documented reasons and permission from their Academic Counsellor (not the Professor). After obtaining permission, students must promptly email the Professor and/or the Teaching Assistant to arrange the Makeup Exam time. 
 
 Makeup Quizzes and Exams: (for more information, see Additional Statements below)
-There is no Makeup Quiz unless you provide documentation to your Counselor covering the entire time from the time the Quiz is posted online until 10 minutes before the Exam begins.
+There is no Makeup Quiz unless you provide documentation to your Counselor (Student Absence Portal) covering the entire time from the time the Quiz is posted online until 10 minutes before the Exam begins.
 
 To write Make-up Quizzes and/or Exams, documented reasons must be presented to Academic Counselling. Do not send your documentation to the Professor, as it is personal and confidential. The decision to allow a Make-up Exam is determined by your Academic Counsellor based on your individual situation. A Make-up Quiz is only possible with documentation covering the entire period from the time the Quiz was first posted until 10 minutes before the Final Exam.
 
@@ -215,9 +209,9 @@ Refer to your Calendar Tool on WESTERN’S ONLINE LEARNING MANAGEMENT SYSTEM (OW
 Reporting Exam Errors – Strict Policy
 If an error occurs during an exam, Professor Simpson will adjust the grading in favor of the class. Students who notice an error must make hand-written notes and email the Professor at simpson@uwo.ca immediately after completing the exam. Include the verbatim question and all answer options in your report.
 Zero-Tolerance Rules:
-* Students must remain on the exam screen at all times.
-* Screenshots or photographs are strictly forbidden. Any violation is a serious academic offence.
-* Accidental screenshots or any attempt to capture exam content will result in immediate referral to the Dean’s office. No warnings or exceptions will be granted.
+•	Students must remain on the exam screen at all times.
+•	Screenshots or photographs are strictly forbidden. Any violation is a serious academic offence.
+•	Accidental screenshots or any attempt to capture exam content will result in immediate referral to the Dean’s office. No warnings or exceptions will be granted.
 Compliance with these rules is mandatory. Any breach will be treated with the full severity of the University’s academic integrity policy.
 
 Emergency Procedures during Examinations and Assembly Points:
@@ -230,7 +224,7 @@ If you encounter issues with OWL or there is an emergency during an exam or quiz
 Communication in this class is restricted to email and/or Zoom. In an emergency, do not leave voice messages or texts on the instructor's cell or landlines. All communication must occur through Zoom or Western's email, with no phone calls answered.
 
 Study Material, Notetaking Guidance, Memorization and Exam Rules:
-In the event of missing a lecture, there is no need to report your absence through any online declaration system, and it's unnecessary to inform the instructor or teaching assistant. No additional documentation is required. However, all missed material, including PowerPoint Slides, Audio, Requied Readings, and Guest Speakers, will be covered in Quizzes and Exams. The assessments will encompass all content, and no Gradebook Items can be adjusted for absences or illnesses. If illness results in missing more than three weeks of lectures, it is advised to consult with your Academic Counsellor to discuss catch-up possibilities. However, as a steadfast policy, the instructor will not modify Quizzes or Exams to accommodate individual students' extended or short-term absences, regardless of the duration of their absence from classes. 
+In the event of missing a lecture, there is no need to report your absence through any online declaration system, and it's unnecessary to inform the instructor or teaching assistant. No additional documentation is required. However, all missed material, including PowerPoint Slides, Audio, Required Readings, and Guest Speakers, will be covered in Quizzes and Exams. The assessments will encompass all content, and no Gradebook Items can be adjusted for absences or illnesses. If illness results in missing more than three weeks of lectures, it is advised to consult with your Academic Counsellor to discuss catch-up possibilities. However, as a steadfast policy, the instructor will not modify Quizzes or Exams to accommodate individual students' extended or short-term absences, regardless of the duration of their absence from classes. 
 
 Students are required to memorize numerous dates and numbers for quizzes and exams. While it may be helpful to maintain a personal list for study purposes, no cheat sheets, paper notes, or electronic devices (including phones) may be used during any quiz or exam. Any violation of this rule constitutes a serious academic offence and will be reported to the Dean’s office.
 
@@ -306,8 +300,7 @@ A student is entitled to be examined in courses maintained in registration, but 
 - A student may be barred from the final examination due to unsatisfactory academic standing throughout the year.
 - Excessive absences, as determined by the instructor, may lead to reporting to the Dean of the offering Faculty after due warning. This condition must be explicitly outlined in the course syllabus. "Due warning" implies a personal email before reaching the specified threshold of absences.
 - Based on the Department's recommendation and with the Dean's permission, the student may be prevented from taking the regular examination for the course.
-
-
+ 
 Learning Objectives:
 
 By the end of the course, students will be able to:
@@ -320,16 +313,15 @@ Learning Objectives Lecture Slides:
 While reviewing the Slides and listening to the audio lectures, including the guest lectures, your main focus should be on contemplating and questioning the material, not on extensive note-taking like a medieval scribe. Although the professor understands that some students prefer reinforcing lecture material with many handwritten or typewritten notes, it is unnecessary due to all the Slides and audio being posted on OWL as YouTube links, MP4 files and PowerPoint slides. 
 
 You are encouraged to engage with the content of the slides and required readings, and think about them, rather than taking copious notes. Many students find reviewing by studying the Slides without audio to be effective; however most if not all the guest speakers refrain from using PowerPoint Slides. It is common practice in government, among non-governmental organization and in the working world, to refrain from using slides – and to rely on the spoken word. Rarely, guest speaker use Slides so you must take notes or rely on YouTube transcripts in order to study the guest speakers. 
-
-
+ 
 
 Support Services: 
 
 Non-Medical and Medical Accommodation:
-For work totalling 10% or more of the final course grade, you must provide valid medical or supporting documentation to the Academic Counselling Office of your Faculty of Registration as soon as possible. 
+For work totalling 10% or more of the final course grade, you must provide valid medical or supporting documentation to the Student Absence Portal (and/or Academic Counselling Office of your Faculty of Registration) as soon as possible. 
 Instructors must explain how they will handle accommodation for medical illness affecting less than 10% of the course grade. The exams and quizzes are worth 10% of the course grade, therefore students must see their Academic Counsellor for all accommodations. For absences worth more than 10% of the course grade, students should consult their Academic Counsellor and are not obligated to disclose confidential medical information to the professor.
 
-Social Science Academic Counselling Services and Medical Illness Policies: 
+SAP UWO: Social Science Academic Counselling Services and Medical Illness Policies: 
 Please visit the Social Science Academic Counselling webpage for information on adding/dropping courses, academic considerations for absences, appeals, exam conflicts, and many other academic related matters. 
 For further information, please consult the University’s medical illness policy at https://www.uwo.ca/univsec/pdf/academic_policies/appeals/accommodation_medi cal.pdf. 
 The Student Medical Certificate is available at https://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf
@@ -347,12 +339,12 @@ https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic%20Accommodatio
 
 Mental Health at Western:
 The instructor posts a disclaimer on the lectures that may have slides and/or pictures that affect students in emotional/mental distress. The disclaimer also applies to the entire course’s materials, therefore a sample disclaimer is here:
-WEBSITE DISCLAIMER: 
-The information provided by Professor Erika Simpson ('we', 'us' or 'our') on the OWL Site (the 'Site') is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site. Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site or reliance on any information provided on the site your use of the site and your reliance on any information on the site is solely at your own risk. 
+WEBSITE DISCLAIMER: 
+The information provided by Professor Erika Simpson ('we', 'us' or 'our') on the OWL Site (the 'Site') is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site. Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the site or reliance on any information provided on the site your use of the site and your reliance on any information on the site is solely at your own risk. 
 EXTERNAL LINKS DISCLAIMER:
 The Site may contain (or you may be sent through the Site) links to other websites or content belonging to or originating from third parties or links to websites and features in banners or other advertising. Such external links are not investigated, monitored or checked for accuracy, adequacy, validity, reliability, availability or completely by us. We do not warrant, endorse, guarantee, or assume responsibility for the accuracy or reliability of any information offered by third-party websites linked through he site or any website or feature linked in any batter or other advertising. We will not be a party to or in any way be responsibility for monitoring any transaction between you and third-party providers of products or services.
 SENSITIVE CONTENT AND DESCRIPTIONS OF WAR AND VIOLENCE
-Some students might find the Content and pictures on some PowerPoint Slides upsetting. The Slides deal with strong adult themes concerning violence, death, war, abuse (torture), international and national conflict as well as political or religious affiliation, substance abuse, illegal activities, and other adverse health or mental heath issues including mental illness, drug and alcohol addition, hate speech or strong abusive language.  
+Some students might find the Content and pictures on some PowerPoint Slides upsetting. The Slides deal with strong adult themes concerning violence, death, war, abuse (torture), international and national conflict as well as political or religious affiliation, substance abuse, illegal activities, and other adverse health or mental heath issues including mental illness, drug and alcohol addition, hate speech or strong abusive language.  
 Viewers may not use the Content in any manner that would be deemed offensive or in connection with a subject that would be controversial or unflattering to a reasonable person.
 There may be sensitive topics or images in the content that might be triggering to someone who experienced war, trauma or an abusive situation.
 Sensitive Content Notice in the Lessons (examples):
@@ -372,8 +364,7 @@ https://learning.uwo.ca
 
 We encourage you to check out the Digital Student Experience website to manage your academics and well-being: https://www.uwo.ca/se/digital/
 Additional student-run support services are offered by the USC, https://westernusc.ca/services/
-
-
+ 
 Additional regulations on course re-evaluation, absences, and evaluation of international students:
 
 Refer to the APPENDIX TO UNDERGRADUATE COURSE OUTLINES FROM THE DEPARTMENT OF POLITICAL SCIENCE, located in the folder within this section of the Syllabus, for additional university and departmental regulations applicable to this course. Note: You are responsible for reading and adhering to the APPENDIX and the INFORMATION BELOW, although we do not cover this information during class time.
@@ -413,65 +404,192 @@ Students with questions can contact the Student Health Care clinic at 519-661-30
 Appendix for all Course Outlines:
 This part of the Course Outline and Official Syllabus is not longer appended to your Course Outline, and it is your responsibility to read the Academic Policies at your own pace online. Please review these policies for any queries before seeking guidance from the Course Instructor (and/or Teaching Assistants). The Appendix is available here: https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf
 
-. Final Exam for both 2141 and 2191 (always include weight)
+OWL Brightspace Tracking, Readings, and Assessment Decisions — Explained
 
-    Weight: 40% (mandatory component)
-    Missed Exam: Misreading the timetable or failing to log in during the exam window will result in a course failure.
-    Academic Consideration:
-        Undocumented Absence cannot be used for the Final Exam.
-        It is limited to one per term per course and does not apply to Final Exams (see FAQs for details).
-    Exam Window:
-    🕛 Opens: Wednesday, December 17, 2025, at 12:00 PM (EST)
-    🕘 Closes: Monday, December 22, 2025, at 9:00 PM (EST) The official exam time is 9:00 AM to 11:00 AM. Recall I was able to obtain the University's special permission to open the final exam early and close it at 9:00 PM.
-    Makeup Exam:
-    🗓️ Monday, January 12, 2026, from 12:00–2:00 PM (EST)
-        Requires permission from both your academic advisor and the course instructor.
+Students often have questions and concerns about how OWL Brightspace tracks engagement, including how long lectures or YouTube videos are opened. Others have noticed that the Library external tool does not accurately record time spent on supplementary readings, particularly when those readings are not tested.
 
-2. Quiz #2 for both 2141 and 2191 (always include weight)
+In this video, Professor Simpson explains:
 
-    Quiz Window:
-    🕛 Opens: Monday, December 1, 2025, at 12:00 PM (EST)
-    🕚 Closes: Friday, December 5, 2025, at 11:50 PM (EST)
-    Important Notes:
-        This schedule is firm. Quizzes cannot remain open during the formal exam period.
-        Complete the quiz early in the five-day window.
-        If you delay and encounter issues, you must provide documentation covering the entire five-day period.
-        Only one Special Consideration request is allowed per term.
-        If used, Makeup Quiz #2 will take place on
-        🗓️ Monday, January 12, 2026, from 9:00–11:50 AM (EST)
-        and you will have one attempt only (not three).
-        Students applying to professional programs should note: a missed quiz may result in an INCOMPLETE grade.
-        Interim grades will not be available during the university’s holiday closure (December 22–January 9).
-        In short: do not miss the quiz if at all possible.
+How OWL Brightspace tracking works—and what it does (and does not) measure
 
-3. Reminders and Accessibility (if asked about final exam or quiz always say reminder emails part)
+Why time spent on external Library readings may not be recorded accurately
 
-    Reminder Emails:
-        Three reminders will be sent before the quiz and exam periods.
-        This notice counts as an additional reminder.
-    Additional Reminders:
-        Students enrolled in more than one of my courses—or those registered with Accessible Education and receiving extended time—will receive extra reminders.
-    Email Responsibility:
-        All reminders are intended to help you stay organized.
-        Failure to read your UWO email is not valid grounds for appeal.
+Why students in Fall 2025 courses may have had required readings, while future courses are not tested on required readings
 
-Thank you for your attention to these details and for managing your academic schedule responsibly.
+The pedagogical reasoning behind these assessment decisions
 
-Your instructor,
+This video is intended to answer common questions in one place. If you receive an email from Professor Simpson directing you here, please watch the video first—it may fully address your concerns and save the need for lengthy follow-up emails.
 
-Professor Erika Simpson
+The goal throughout is transparency, fairness, and reducing unnecessary student anxiety around tracking and assessment.
+
+Where to Find Your Quiz or Exam Link
+
+Quiz and exam links appear once Professor Simpson publishes them. Links are normally published after all accommodated students have been accounted for, usually about 24 hours before the quiz or exam begins.
+
+If you are registered with Accessible Education and have been granted extra time, check your link carefully. You do not need to email Professor Simpson to confirm or double-check once accommodations are in place.
+
+Quiz 1: Re: Quiz #1 Opens 12:00 PM Feb 25, 2026 12:00 PM - Mar 2, 2026 11:50 AM
+
+Attention: The Quiz #1 window closes at 11:50 AM, immediately before the Midterm Exam begins (not 11:50 PM).
+
+You may not use a Self-Reported Absence (SRA) or Special Consideration Form to miss Quiz #1. The quiz is open from 12:00 PM today until 10 minutes before the Midterm Exam.
+
+Any documentation submitted through the Student Absence Portal must cover the entire quiz window (approximately five days or more).
+
+Failure to provide valid documentation will result in forfeiture of the Quiz #1 mark, worth 10% of your final grade. There is no recourse.
+
+Lesson 8 Posted Online (assessed in Quiz #2 and the Final Exam)
+
+Quiz #1 and the Midterm Exam cover material from Lessons 1 through 6 only.
+Lessons 7 through 12 are assessed in Quiz #2 and the Final Exam.
+
+Do not study Lessons 7 and 8 for Quiz #1 or the Midterm Exam.
+
+Re: Midterm Exam Opens 12:00 PM and Closes (auto-submits) at 8:00 PM Mar 2, 2026 12:00 PM - Mar 2, 2026 8:00 PM
+
+The Quiz #1 window closes at 11:50 AM, prior to the start of the Midterm Exam (not 11:50 PM). The Midterm Exam window remains open until 8:00 PM (EDT/EST). The Midterm Exam is two hours in duration.
+
+You may not use a Self-Reported Absence (SRA) or a Special Consideration form to delay taking the Midterm Exam. A Makeup Midterm Exam will be permitted only with legitimate documentation. Medical documentation must explicitly cover five full days to excuse a missed Quiz #1 and/or eight hours to qualify for a Makeup Midterm Exam.
+
+Mar 11, 2026 12:00 PM - Mar 11, 2026 8:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+Re: MAKEUP Quiz #1 – Window from 12:00 PM to 8:00 PM EDT/EST
+
+Students will not be permitted to write the makeup Quiz #1 unless their documentation has been approved through the Student Absence Portal.
+
+Makeup Quiz #1 Details:
+
+Duration: 1 hour
+
+Attempts: 1 only (no multiple attempts)
+
+Window: Opens at 12:00 PM and closes at 8:00 PM (EDT/EST) today
+
+If you are approved to take the makeup quiz, you must start and complete it within this window.
+
+Important:
+Student Requests for Academic Accommodation (SRAs) and Special Consideration forms will be denied if the documentation does not cover the entire window of the originally scheduled Quiz #1. The original quiz was a 1-hour quiz offered within a 5-day window from Wednesday, February 25, 12:00 PM to Monday, March 2, 11:50 AM (EDT/EST).
+
+Please ensure all documentation fully corresponds to this period.
+
+Reminder: If you are permitted to take the makeup Quiz #1, you may take it only once, and it must be completed today by 8:00 PM (EDT/EST).
 
 
+Mar 16, 2026 12:00 PM - Mar 16, 2026 8:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+Re: MAKEUP Midterm Exam - Window from 12:00 PM to 8:00 PM EDT/EST
 
-1 
+Students will not be permitted to write the makeup midterm exam unless their documentation has been approved through the Student Absence Portal.
+
+Student Requests for Academic Accommodation (SRAs) and Special Consideration forms will be denied if they do not include proper documentation covering the entire window of the regularly scheduled midterm exam. The midterm was a 2-hour exam offered within an 8-hour window on Monday, March 2, from 12:00 PM to 8:00 PM (EDT/EST).
+
+Please ensure that all submitted documentation fully corresponds to this exam window.
+
+
+Mar 30, 2026 12:00 PM - Apr 9, 2026 8:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+Re: Quiz #2 Opens 12:00 PM
+
+Attention: The Quiz #2 window closes at 8:00 PM, not 11:50 PM on Thursday, April 9th. 
+
+You may not use a Self-Reported Absence (SRA) or Special Consideration Form to miss Quiz #2. The quiz is open from 12:00 PM today until 8:00 PM Thursday April 9, 2025.
+
+Any documentation submitted through the Student Absence Portal must cover the entire quiz window (approximately five working days when the University is open and an addiitonal approximately 2 more statutory/religious holidays).
+
+Failure to provide valid documentation will result in forfeiture of the Quiz #2 mark, worth 10% of your final grade. There is no recourse.
+
+Apr 9, 2026 12:00 AM - Apr 9, 2026 8:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Quiz #2 closes at 8:00 PM, not 12:00 PM.
+This is because Western Technology Services (WTS) technicians end their shift at 10:00 PM and cannot provide support after that time. You will receive multiple notices explaining this deadline.
+
+You may not argue that you chose to start Quiz #2 at 10:00 PM after WTS closed. 
+
+Apr 3, 2026 12:01 AM - Apr 5, 2026 11:59 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Re: Clarification on Statutory Holidays
+
+ Friday and Sunday are statutory holidays, while Easter Monday is not considered a statutory holiday in the Western (UWO) academic calendar, available here: https://www.uwo.ca/sci/advising/registration/important_dates.html
+
+Study Days Apr 10, 2026 - Apr 11, 2026
+
+Exam Period BeginsApr 13, 2026 12:00 AM - Apr 30, 2026 9:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Exam Period Begins
+
+The examination window may open as early as April 13 at 9:00 AM and will close no sooner than five days later at 8:00 PM. Students must complete the exam within this window. Professor Simpson does not set the exam date; scheduling is determined solely by Exam Central. Any requests to adjust the window are subject to Exam Central’s approval. This notice will be updated immediately once the official timetable is posted.
  
+Exam Central will confirm the exact date(s) of the exam window later this termApr 13, 2026 9:00 AM - Apr 30, 2026 9:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+Exam Central will confirm the exact date(s) of the exam window later this term. 
 
-2
+You must be available to take the online final exam up until and including Thursday April 30 when the Final Exam period ends.
+
+Re: The exam window may open as early as April 13 at 9:00 AM and will close five days later at 8:00 PM. The exam must be completed during this five-day window.
+
+The Final Exam is two hours in duration. Exam Central will confirm the exact date(s) of the exam window later this term. 
+
+To emphasize again, you must be available to take the online final exam up until and including Thursday April 30 when the Final Exam period ends.
+
+You may not use a Self-Reported Absence (SRA) or a Special Consideration form to delay taking the Final Exam. A Makeup Final Exam will be permitted only with legitimate documentation. Medical documentation must explicitly cover five full days to excuse a missed Quiz #1 and/or the five scheduled days to qualify for a Makeup Final Exam.
+
+Office Hours and Course CorrespondenceApr 27, 2026 9:00 AM - 11:00 AM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online by Zoom
+Office Hours and Course Correspondence
+
+Office hours are Mondays, 9:00–11:00 AM (EDT/EST), except on Statutory Holidays, via the posted Zoom link. No separate appointments will be scheduled to accommodate individual requests.
+
+For urgent matters, contact me via email: simpson@uwo.ca.
+
+Important: There is no Teaching Assistant for this course. All course correspondence is handled solely by Professor Simpson.
+
+Office hours end on Monday, April 27, with the course concluding at the end of the Final Exam period on Thursday, April 30.
 
 
-1 
- 
+MAKEUP Quiz #2 May 11, 2026 10:00 AM - 12:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+MAKEUP Quiz #2 10:00 AM - 12:00 PM
 
+Students will not be permitted to write the one-hour makeup quiz #2 unless their documentation has been approved through the Student Absence Portal.
 
+Student Requests for Academic Accommodation (SRAs) and Special Consideration forms will be denied if they do not include proper documentation covering the entire window of the regularly scheduled quiz #2. The quiz was a 1-hour quiz offered within a six-day window (not including statutory holidays) beginning Monday March 30 at 12:00 PM to Thursday April 9th at 8:00 PM (EDT/EST).
 
+Please ensure that all submitted documentation fully corresponds to this exam window.
 
+If you are permitted to take the makeup Quiz #2, you may take it only once (not up to three attempts), and you must complete it today by 12:00 PM (EDT/EST).
+
+Quiz #2 closes at 12:00 PM, not 11:50 PM.
+This is because Western Technology Services (WTS) technicians end their shift at 10:00 PM and cannot provide support after that time. You will receive multiple notices explaining this deadline.
+
+ 
+MAKEUP Final Exam May 11, 2026 12:00 PM - 2:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+MAKEUP Final Exam
+
+Students will not be permitted to write the makeup midterm quiz #2 and/or Final Exam unless their documentation has been approved through the Student Absence Portal.
+
+Student Requests for Academic Accommodation (SRAs) and Special Consideration forms will be denied as they cannot be used for Final Exams. The Final Exam was a 2-hour exam offered within an 8-hour window on a Date TBA (To be Announced) by Exam Central.
+
+Please ensure that all submitted documentation fully corresponds to this exam window.
+
+VERY FINAL MAKEUPS (missed quizzes and exams) May 20, 2026 10:00 AM - May 20, 2026 8:00 PM
+POLISCI 2135B 650 LEC FW25: CANADA ABROAD
+Online
+Re: VERY FINAL MAKEUPS (missed quizzes and exams)
+
+For documented reasons related to compassionate grounds, extended illness, incarceration, or legal obligations, the final date to take a Makeup Quiz #1, Makeup Midterm Exam, Quiz #2, or Final Exam is Wednesday, May 20, 2026.
+
+Makeup Quiz #1 or Quiz #2: 10:00 AM – 12:00 PM EDT/EST (ONLINE), one attempt only allowed.
+
+Missed Midterm or Final Exam: 12:00 PM – 8:00 PM
+
+Documentation must be submitted through the Student Absence Portal to qualify for any makeup assessments.
+
+Important: If you missed the Midterm or Final Exam without prior approval, you have already failed the course. You must obtain explicit permission to take these exams.
