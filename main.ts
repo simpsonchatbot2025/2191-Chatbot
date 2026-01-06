@@ -20,6 +20,16 @@ serve(async (req: Request): Promise<Response> => {
     });
   }
 
+  // Health check / warmup (needed so deploy doesn't fail)
+if (req.method === "GET" || req.method === "HEAD") {
+  return new Response("OK", {
+    status: 200,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
+}
+
   if (req.method !== "POST") {
     return new Response("Method Not Allowed", { status: 405 });
   }
