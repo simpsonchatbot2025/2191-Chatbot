@@ -414,7 +414,7 @@ How OWL Brightspace tracking works—and what it does (and does not) measure
 
 Why time spent on external Library readings may not be recorded accurately
 
-Why students in Fall 2025 courses may have had required readings, while future courses are not tested on required readings
+2135- Why students in Fall 2025 courses may have had required readings, while future courses are not tested on required readings
 
 The pedagogical reasoning behind these assessment decisions
 
@@ -422,15 +422,15 @@ This video is intended to answer common questions in one place. If you receive a
 
 The goal throughout is transparency, fairness, and reducing unnecessary student anxiety around tracking and assessment.
 
-Where to Find Your Quiz or Exam Link
+2135- Where to Find Your Quiz or Exam Link
 
 Quiz and exam links appear once Professor Simpson publishes them. Links are normally published after all accommodated students have been accounted for, usually about 24 hours before the quiz or exam begins.
 
 If you are registered with Accessible Education and have been granted extra time, check your link carefully. You do not need to email Professor Simpson to confirm or double-check once accommodations are in place.
 
-Quiz 1: Re: Quiz #1 Opens 12:00 PM Feb 25, 2026 12:00 PM - Mar 2, 2026 11:50 AM
+2135- Quiz 1: Re: Quiz #1 Opens 12:00 PM Feb 25, 2026 12:00 PM - Mar 2, 2026 11:50 AM
 
-Attention: The Quiz #1 window closes at 11:50 AM, immediately before the Midterm Exam begins (not 11:50 PM).
+2135- Attention: The Quiz #1 window closes at 11:50 AM, immediately before the Midterm Exam begins (not 11:50 PM).
 
 You may not use a Self-Reported Absence (SRA) or Special Consideration Form to miss Quiz #1. The quiz is open from 12:00 PM today until 10 minutes before the Midterm Exam.
 
@@ -451,10 +451,10 @@ The Quiz #1 window closes at 11:50 AM, prior to the start of the Midterm Exam (n
 
 You may not use a Self-Reported Absence (SRA) or a Special Consideration form to delay taking the Midterm Exam. A Makeup Midterm Exam will be permitted only with legitimate documentation. Medical documentation must explicitly cover five full days to excuse a missed Quiz #1 and/or eight hours to qualify for a Makeup Midterm Exam.
 
-Mar 11, 2026 12:00 PM - Mar 11, 2026 8:00 PM
+2135- Mar 11, 2026 12:00 PM - Mar 11, 2026 8:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online
-Re: MAKEUP Quiz #1 – Window from 12:00 PM to 8:00 PM EDT/EST
+2135- Re: MAKEUP Quiz #1 – Window from 12:00 PM to 8:00 PM EDT/EST
 
 Students will not be permitted to write the makeup Quiz #1 unless their documentation has been approved through the Student Absence Portal.
 
@@ -476,10 +476,10 @@ Please ensure all documentation fully corresponds to this period.
 Reminder: If you are permitted to take the makeup Quiz #1, you may take it only once, and it must be completed today by 8:00 PM (EDT/EST).
 
 
-Mar 16, 2026 12:00 PM - Mar 16, 2026 8:00 PM
+2135- Mar 16, 2026 12:00 PM - Mar 16, 2026 8:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online
-Re: MAKEUP Midterm Exam - Window from 12:00 PM to 8:00 PM EDT/EST
+2135- Re: MAKEUP Midterm Exam - Window from 12:00 PM to 8:00 PM EDT/EST
 
 Students will not be permitted to write the makeup midterm exam unless their documentation has been approved through the Student Absence Portal.
 
@@ -488,10 +488,10 @@ Student Requests for Academic Accommodation (SRAs) and Special Consideration for
 Please ensure that all submitted documentation fully corresponds to this exam window.
 
 
-Mar 30, 2026 12:00 PM - Apr 9, 2026 8:00 PM
+2135- Mar 30, 2026 12:00 PM - Apr 9, 2026 8:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online
-Re: Quiz #2 Opens 12:00 PM
+2135- Re: Quiz #2 Opens 12:00 PM
 
 Attention: The Quiz #2 window closes at 8:00 PM, not 11:50 PM on Thursday, April 9th. 
 
@@ -501,22 +501,22 @@ Any documentation submitted through the Student Absence Portal must cover the en
 
 Failure to provide valid documentation will result in forfeiture of the Quiz #2 mark, worth 10% of your final grade. There is no recourse.
 
-Apr 9, 2026 12:00 AM - Apr 9, 2026 8:00 PM
+2135- Apr 9, 2026 12:00 AM - Apr 9, 2026 8:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Quiz #2 closes at 8:00 PM, not 12:00 PM.
 This is because Western Technology Services (WTS) technicians end their shift at 10:00 PM and cannot provide support after that time. You will receive multiple notices explaining this deadline.
 
 You may not argue that you chose to start Quiz #2 at 10:00 PM after WTS closed. 
 
-Apr 3, 2026 12:01 AM - Apr 5, 2026 11:59 PM
+2135- Apr 3, 2026 12:01 AM - Apr 5, 2026 11:59 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Re: Clarification on Statutory Holidays
 
  Friday and Sunday are statutory holidays, while Easter Monday is not considered a statutory holiday in the Western (UWO) academic calendar, available here: https://www.uwo.ca/sci/advising/registration/important_dates.html
 
-Study Days Apr 10, 2026 - Apr 11, 2026
+2135- Study Days Apr 10, 2026 - Apr 11, 2026
 
-Exam Period BeginsApr 13, 2026 12:00 AM - Apr 30, 2026 9:00 PM
+2135- Exam Period BeginsApr 13, 2026 12:00 AM - Apr 30, 2026 9:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Exam Period Begins
 
@@ -537,7 +537,7 @@ To emphasize again, you must be available to take the online final exam up until
 
 You may not use a Self-Reported Absence (SRA) or a Special Consideration form to delay taking the Final Exam. A Makeup Final Exam will be permitted only with legitimate documentation. Medical documentation must explicitly cover five full days to excuse a missed Quiz #1 and/or the five scheduled days to qualify for a Makeup Final Exam.
 
-Office Hours and Course CorrespondenceApr 27, 2026 9:00 AM - 11:00 AM
+2135- Office Hours and Course CorrespondenceApr 27, 2026 9:00 AM - 11:00 AM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online by Zoom
 Office Hours and Course Correspondence
@@ -551,7 +551,7 @@ Important: There is no Teaching Assistant for this course. All course correspond
 Office hours end on Monday, April 27, with the course concluding at the end of the Final Exam period on Thursday, April 30.
 
 
-MAKEUP Quiz #2 May 11, 2026 10:00 AM - 12:00 PM
+2135- MAKEUP Quiz #2 May 11, 2026 10:00 AM - 12:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online
 MAKEUP Quiz #2 10:00 AM - 12:00 PM
@@ -564,11 +564,11 @@ Please ensure that all submitted documentation fully corresponds to this exam wi
 
 If you are permitted to take the makeup Quiz #2, you may take it only once (not up to three attempts), and you must complete it today by 12:00 PM (EDT/EST).
 
-Quiz #2 closes at 12:00 PM, not 11:50 PM.
+2135- Quiz #2 closes at 12:00 PM, not 11:50 PM.
 This is because Western Technology Services (WTS) technicians end their shift at 10:00 PM and cannot provide support after that time. You will receive multiple notices explaining this deadline.
 
  
-MAKEUP Final Exam May 11, 2026 12:00 PM - 2:00 PM
+2135- MAKEUP Final Exam May 11, 2026 12:00 PM - 2:00 PM
 POLISCI 2135B 650 LEC FW25: CANADA ABROAD
 Online
 MAKEUP Final Exam
@@ -586,10 +586,11 @@ Re: VERY FINAL MAKEUPS (missed quizzes and exams)
 
 For documented reasons related to compassionate grounds, extended illness, incarceration, or legal obligations, the final date to take a Makeup Quiz #1, Makeup Midterm Exam, Quiz #2, or Final Exam is Wednesday, May 20, 2026.
 
-Makeup Quiz #1 or Quiz #2: 10:00 AM – 12:00 PM EDT/EST (ONLINE), one attempt only allowed.
+2135- Makeup Quiz #1 or Quiz #2: 10:00 AM – 12:00 PM EDT/EST (ONLINE), one attempt only allowed.
 
 Missed Midterm or Final Exam: 12:00 PM – 8:00 PM
 
 Documentation must be submitted through the Student Absence Portal to qualify for any makeup assessments.
 
 Important: If you missed the Midterm or Final Exam without prior approval, you have already failed the course. You must obtain explicit permission to take these exams.
+
