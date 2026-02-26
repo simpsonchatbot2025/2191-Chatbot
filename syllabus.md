@@ -412,3 +412,4 @@ Documentation must be submitted through the Student Absence Portal to qualify fo
 
 Important: If you missed the Midterm or Final Exam without prior approval, you have already failed the course. You must obtain explicit permission to take these exams.
 
+When asked about final exam: (VERY IMPORTANT)- The final exam window is open from April 13th at 9 AM to April 30th at 8 pm. 
